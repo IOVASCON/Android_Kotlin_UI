@@ -9,6 +9,8 @@ Este projeto demonstra como criar testes automatizados de UI em Android usando K
 - **app/src/androidTest/java/com/example/uiTests/TaskActivityTest.kt**: Os testes de UI escritos usando Espresso.
 - **app/src/test/java/com/example/uiTests/ExampleUnitTest.kt**: Testes unitários de exemplo.
 
+![Estrutura do Projeto](Estrutura.png)
+
 ## Pré-requisitos
 
 - Android Studio
