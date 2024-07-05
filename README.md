@@ -4,7 +4,7 @@ Este projeto demonstra como criar testes automatizados de UI em Android usando K
 
 ## Estrutura do Projeto
 
-![Estrutura do Projeto](.vscode/Estrutura.png)
+![Estrutura do Projeto](Estrutura.png)
 
 - **app/src/main/java/com/example/uiTests/TaskActivity.kt**: A Activity principal que está sendo testada.
 - **app/src/main/res/layout/activity_task.xml**: O layout XML para `TaskActivity`.
