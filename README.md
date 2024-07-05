@@ -21,7 +21,7 @@ Este projeto demonstra como criar testes automatizados de UI em Android usando K
 
 1. Clone o repositório:
 
-   git clone <URL do repositório>
+   git clone [https://github.com/IOVASCON/Android_Kotlin_UI.git]
 
 2. Navegue até o diretório do projeto:
 
